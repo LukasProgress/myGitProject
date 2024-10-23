@@ -1,4 +1,6 @@
 Das ist eine Datei
 MERGE CONFLICT?
+MERGE CONFLICT!!!!! zweiter versuch
+gehts jetzt?
 commit3
 Branch commit 1
