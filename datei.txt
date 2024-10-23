@@ -1,4 +1,4 @@
 Das ist eine Datei
-MERGE CONFLICT!!!!!
+MERGE CONFLICT?
 commit3
 Branch commit 1
