@@ -4,3 +4,4 @@ MERGE CONFLICT!!!!! zweiter versuch
 gehts jetzt?
 commit3
 Branch commit 1
+Neue Änderung!
